@@ -9,6 +9,8 @@ Youtube 👉 [https://www.youtube.com/@WilcodeNet](https://www.youtube.com/@Wilc
 
 <iframe width="560" height="315" src="https://www.youtube.com/watch?v=etVR9R6vO08" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+[![All In One - Social Media Multiple Accounts Manager Pro](https://img.youtube.com/vi/etVR9R6vO08/0.jpg)](https://www.youtube.com/watch?v=etVR9R6vO08)
+
 ## **What is Social Media Multiple Accounts Manager Pro?**  
 **Social Media Multiple Accounts Manager Pro** is software that supports opening multiple independent browser tabs, allowing you to log into various social media accounts. Each tab can be set up with a separate proxy, so each tab corresponds to a different IP address.  
 
